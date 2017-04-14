@@ -1,36 +1,26 @@
 # Save the Internet
-> flow: LIFO; notation: [tag,tag[,tag]] `[internal](link)` `[external](link)`
 
-- [undone, couroutines, javascript] [pdf](docs/Coroutine Event Loops in Javascript.pdf) [Coroutine Event Loops in Javascript](https://x.st/javascript-coroutines/)
-- [done, curry, javascript] [pdf](docs/Gettin’ Freaky Functional w_Curried JavaScript.pdf) [Gettin’ Freaky Functional w/Curried JavaScript](http://blog.carbonfive.com/2015/01/14/gettin-freaky-functional-wcurried-javascript/)
-- [undone, javascript, solid] [S.O.L.I.D-ый JavaScript](https://www.youtube.com/watch?v=wi3wPzReKZQ)
-- [undone] [pdf](docs/Exponential Backoff или как «не завалить сервер» _ Хабрахабр.pdf) [Exponential Backoff или как «не завалить сервер»](https://habrahabr.ru/post/227225/)
-- [done, programming, oop] [pdf](docs/Я не знаю ООП _ Хабрахабр.pdf) [Я не знаю ООП](https://habrahabr.ru/post/147927/)
-- [undone, react, redux, mobx, vs] [An artificial example where MobX really shines and Redux is not really suited for it](https://hackernoon.com/an-artificial-example-where-mobx-really-shines-and-redux-is-not-really-suited-for-it-1a58313c0c70#.mcskgckul)
-- [undone, netflix, privacy] [Protecting Netflix Viewing Privacy at Scale](http://techblog.netflix.com/2016/08/protecting-netflix-viewing-privacy-at.html)
-- [done, javascript, memoization] [pdf](docs/Implementing Memoization in JavaScript.pdf) [Implementing Memoization in JavaScript](https://www.sitepoint.com/implementing-memoization-in-javascript/)
-- [book] [Dragon book](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools)
-- [book] [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/)
-- [undone, storage] [Coding for Modern Distributed Storage Systems I](https://www.youtube.com/watch?v=-UvC5YxYprs)
-- [undone, actor, scala] [pdf](docs/ru-neophyte-guide-to-scala_p14-actors.pdf) [Параллельные вычисления с помощью акторов](https://github.com/anton-k/ru-neophyte-guide-to-scala/blob/master/src/p14-actors.md)
-- [done, actor] [pdf](docs/Модели акторов 40 лет _ Блог компании LLC Tik-Tok Coach _ Хабрахабр.pdf) [Модели акторов 40 лет](https://habrahabr.ru/company/tiktokcoach/blog/206300/)
-- [undone, actor] [pdf](docs/Модель акторов — Википедия.pdf) [Модель акторов](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C_%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2)
-- [nodejs, fun] [Shit Ryan Dahl Says](http://shitryandahlsays.tumblr.com/)
-- [undone, cssom, browser] [Создание модели визуализации и макета, вывод страницы на экран](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction?hl=ru)
-- [done, KharkivJS] [Andrey Listochkin — Anti hype как не гнаться за технологиями и начать жить](https://www.youtube.com/watch?v=xPFRUM_oDKA)
-- [done, holyjs] [Алексей Симоненко — Как я перестал верить технологиям](https://www.youtube.com/watch?v=f4uXBpP_xxY)
-- [done, functional, monads] [pdf](docs/The Marvellously Mysterious JavaScript Maybe Monad.pdf) [The Marvellously Mysterious JavaScript Maybe Monad](http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)
-- [undone, Douglas Crockford, functional, monads] [Monads and Gonads (YUIConf Evening Keynote)](https://www.youtube.com/watch?v=dkZFtimgAcM)
-- [done, Erik Meijer, programming, functional] [OSCON 09: Erik Meijer, "Fundamentalist Functional Programming"](https://www.youtube.com/watch?v=UuamC0T3hv8)
-- [github] [Cycle.js](https://github.com/cyclejs)
-- [done, category theory] [pdf](docs/JoyOfCoding2016-PhilipWadler-Categorytheoryfortheworkinghacker.pdf) [Category Theory for the Working Hacker](https://www.infoq.com/presentations/category-theory-propositions-principle)
-- [done, curry, javascript] [pdf](docs/Введение в каррирование в JavaScript.pdf) [Введение в каррирование в JavaScript](http://prgssr.ru/development/vvedenie-v-karrirovanie-v-javascript.html)
-- [done, programming, classes, objects] [pdf](docs/Seven Virtues of a Good Object - Yegor Bugayenko.pdf) [Seven Virtues of a Good Object](http://www.yegor256.com/2014/11/20/seven-virtues-of-good-object.html)
-- [undone, programming, functional] [Functional Programming HOWTO](https://docs.python.org/3.7/howto/functional.html)
-- [done, programming, classes] [pdf](docs/Stop Writing Classes.pdf) [Перестаньте писать классы](https://habrahabr.ru/post/140581/)
-- [undone, nodejs, modules, commonjs] [Where Does Node.js And Require() Look For Modules?](https://www.bennadel.com/blog/2169-where-does-node-js-and-require-look-for-modules.htm)
-- [routing, github] [https://github.com/Project-OSRM](https://github.com/Project-OSRM)
-- [undone, languages, erlang, concurrency] [Stanford Seminar - Faults, Scaling, and Erland Concurrency](https://www.youtube.com/watch?v=YaUPdgtUYko)
-- [undone, languages, compare, closure] [http://telegra.ph/Why-Clojure-is-better-than-C-PythonRuby-and-java-and-why-should-you-care-12-20](http://telegra.ph/Why-Clojure-is-better-than-C-PythonRuby-and-java-and-why-should-you-care-12-20)
-- [routing, github] [https://github.com/valhalla](https://github.com/valhalla)
-- [MVC, architecture] [pdf](docs/Hunting for mythical MVC.pdf) [Hunting for mythical MVC](https://habrahabr.ru/post/321050/)
+`[external](link)` | source | [tag[, tag]] | status
+--- | --- | --- | ---
+[Coroutine Event Loops in Javascript](https://x.st/javascript-coroutines/) | [pdf](docs/Coroutine-Event-Loops-in-Javascript.pdf) | couroutines, javascript | !done
+[Gettin’ Freaky Functional w/Curried JavaScript](http://blog.carbonfive.com/2015/01/14/gettin-freaky-functional-wcurried-javascript/) | [pdf](docs/Gettin’-Freaky-Functional-w_Curried-JavaScript.pdf) | curry, javascript |
+[Exponential Backoff или как «не завалить сервер»](https://habrahabr.ru/post/227225/) | [pdf](docs/Exponential-Backoff-или-как-«не-завалить-сервер»-_-Хабрахабр.pdf) | | !done
+[Я не знаю ООП](https://habrahabr.ru/post/147927/) | [pdf](docs/Я-не-знаю-ООП-_-Хабрахабр.pdf) | programming, oop |
+[An artificial example where MobX really shines and Redux is not really suited for it](https://hackernoon.com/an-artificial-example-where-mobx-really-shines-and-redux-is-not-really-suited-for-it-1a58313c0c70#.mcskgckul) | | react, redux, mobx, vs | !done
+[Protecting Netflix Viewing Privacy at Scale](http://techblog.netflix.com/2016/08/protecting-netflix-viewing-privacy-at.html) | | netflix, privacy | !done
+[Implementing Memoization in JavaScript](https://www.sitepoint.com/implementing-memoization-in-javascript/) | [pdf](docs/Implementing-Memoization-in-JavaScript.pdf) | javascript, memoization |
+[Параллельные вычисления с помощью акторов](https://github.com/anton-k/ru-neophyte-guide-to-scala/blob/master/src/p14-actors.md) | [pdf](docs/ru-neophyte-guide-to-scala_p14-actors.pdf) | actor, scala | !done
+[Модели акторов 40 лет](https://habrahabr.ru/company/tiktokcoach/blog/206300/) | [pdf](docs/Модели-акторов-40-лет-_-Блог-компании-LLC-Tik-Tok-Coach-_-Хабрахабр.pdf) | actor |
+[Модель акторов](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C_%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2) | [pdf](docs/Модель-акторов-—-Википедия.pdf) | actor | !done
+[The Marvellously Mysterious JavaScript Maybe Monad](http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/) | [pdf](docs/The-Marvellously-Mysterious-JavaScript-Maybe-Monad.pdf) | functional, monads |
+[Category Theory for the Working Hacker](https://www.infoq.com/presentations/category-theory-propositions-principle) | [pdf](docs/JoyOfCoding2016-PhilipWadler-Categorytheoryfortheworkinghacker.pdf) | category theory |
+[Введение в каррирование в JavaScript](http://prgssr.ru/development/vvedenie-v-karrirovanie-v-javascript.html) | [pdf](docs/Введение-в-каррирование-в-JavaScript.pdf) | curry, javascript |
+[Seven Virtues of a Good Object](http://www.yegor256.com/2014/11/20/seven-virtues-of-good-object.html) | [pdf](docs/Seven-Virtues-of-a-Good-Object-—-Yegor-Bugayenko.pdf) | programming, classes, objects |
+[Functional Programming HOWTO](https://docs.python.org/3.7/howto/functional.html) | | programming, functional | !done
+[Перестаньте писать классы](https://habrahabr.ru/post/140581/) | [pdf](docs/Stop-Writing-Classes.pdf) | programming, classes | 
+[Where Does Node.js And Require() Look For Modules?](https://www.bennadel.com/blog/2169-where-does-node-js-and-require-look-for-modules.htm) | | nodejs, modules, commonjs | !done
+[http://telegra.ph/Why-Clojure-is-better-than-C-PythonRuby-and-java-and-why-should-you-care-12-20](http://telegra.ph/Why-Clojure-is-better-than-C-PythonRuby-and-java-and-why-should-you-care-12-20) | | languages, compare, closure | !done
+[Hunting for mythical MVC](https://habrahabr.ru/post/321050/) | [pdf](docs/Hunting-for-mythical-MVC.pdf) | MVC, architecture |
+
+## Stuff
+- [Links](links.md)
