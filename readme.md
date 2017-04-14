@@ -33,3 +33,4 @@
 - [undone, languages, erlang, concurrency] [Stanford Seminar - Faults, Scaling, and Erland Concurrency](https://www.youtube.com/watch?v=YaUPdgtUYko)
 - [undone, languages, compare, closure] [http://telegra.ph/Why-Clojure-is-better-than-C-PythonRuby-and-java-and-why-should-you-care-12-20](http://telegra.ph/Why-Clojure-is-better-than-C-PythonRuby-and-java-and-why-should-you-care-12-20)
 - [routing, github] [https://github.com/valhalla](https://github.com/valhalla)
+- [MVC, architecture] [pdf](docs/Hunting for mythical MVC.pdf) [Hunting for mythical MVC](https://habrahabr.ru/post/321050/)
