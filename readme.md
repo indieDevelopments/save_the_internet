@@ -23,4 +23,4 @@
 [Hunting for mythical MVC](https://habrahabr.ru/post/321050/) | [pdf](docs/Hunting-for-mythical-MVC.pdf) | MVC, architecture |
 
 ## Stuff
-- [Links](links.md)
+- [Links](docs/links.md)
