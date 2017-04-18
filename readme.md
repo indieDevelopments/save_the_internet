@@ -21,6 +21,7 @@
 [Where Does Node.js And Require() Look For Modules?](https://www.bennadel.com/blog/2169-where-does-node-js-and-require-look-for-modules.htm) | | nodejs, modules, commonjs | !done
 [http://telegra.ph/Why-Clojure-is-better-than-C-PythonRuby-and-java-and-why-should-you-care-12-20](http://telegra.ph/Why-Clojure-is-better-than-C-PythonRuby-and-java-and-why-should-you-care-12-20) | | languages, compare, closure | !done
 [Hunting for mythical MVC](https://habrahabr.ru/post/321050/) | [pdf](docs/Hunting-for-mythical-MVC.pdf) | MVC, architecture |
+[V8: Behind the Scenes (February Edition feat. A tale of TurboFan)](http://benediktmeurer.de/2017/03/01/v8-behind-the-scenes-february-edition/) | [pdf](docs/V8_Behind-the-Scenes-February-Edition-feat.pdf) | V8, TurboFan, Crankshaft |
 
 ## Stuff
 - [Links](docs/links.md)
