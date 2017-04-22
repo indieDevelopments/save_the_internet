@@ -25,3 +25,4 @@
 
 ## Stuff
 - [Links](docs/links.md)
+- [Repo](docs/repo.md)
